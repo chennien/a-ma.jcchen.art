@@ -1,0 +1,7 @@
+#
+# Robots.txt file for a-ma.jcchen.art
+# For questions, please contact https://mailhide.io/e/k7jWFOBo .
+
+User-agent: *
+Disallow: /*.txt$
+Disallow: /*.js$

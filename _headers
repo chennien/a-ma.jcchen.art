@@ -1,0 +1,9 @@
+/*
+ Access-Control-Allow-Origin: *
+ Cache-Control: max-age=86400
+ Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+ X-Content-Type-Options: nosniff
+ X-Frame-Options: deny
+ Referrer-Policy: no-referrer
+ Content-Security-Policy: base-uri 'self'; frame-ancestors 'self'; object-src 'none'; worker-src 'none'; upgrade-insecure-requests; block-all-mixed-content
+ Permissions-Policy: microphone=*, accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), payment=(), usb=()

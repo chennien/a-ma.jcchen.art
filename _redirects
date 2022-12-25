@@ -1,0 +1,7 @@
+https://a-ma.nien.com/* https://a-ma.jcchen.art/:splat 301!
+http://a-ma.jcchen.art/* https://a-ma.jcchen.art/:splat 301!
+
+/wp-admin https://api.hearty.app/wp-admin 200
+/wp-login.php https://api.hearty.app/wp-admin 200
+
+/* https://a-ma.jcchen.art 404
